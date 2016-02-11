@@ -1,0 +1,43 @@
+Hola, mundo
+	> Capa: 0
+  		-Nº de neuronas: 3
+		-Neuronas:
+			> Neurona nº 0
+				- a = 1
+				- e = 0
+			> Neurona nº 1
+				- a = 1
+				- e = 0
+			> Neurona nº 2
+				- a = 1
+				- e = 0
+	> Capa: 1
+  		-Nº de neuronas: 3
+		-Neuronas:
+			> Neurona nº 0
+				- a = 1
+				- e = 0
+				- w[0]= 0
+				- w[1]= 0
+				- w[2]= 0
+			> Neurona nº 1
+				- a = 1
+				- e = 0
+				- w[0]= -0.323777
+				- w[1]= -2.63128
+				- w[2]= 0.835644
+			> Neurona nº 2
+				- a = 1
+				- e = 0
+				- w[0]= -1.44484
+				- w[1]= 0.929979
+				- w[2]= -1.40327
+	> Capa: 2
+  		-Nº de neuronas: 1
+		-Neuronas:
+			> Neurona nº 0
+				- a = 1
+				- e = 0
+				- w[0]= -2.9172
+				- w[1]= 1.81727
+				- w[2]= 2.79189
